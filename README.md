@@ -1,5 +1,5 @@
 # ICP-6
-Code Walkthrough Recording: 
+Code Walkthrough Recording: https://drive.google.com/file/d/1txOFQefn9P5mFN6xs8KpqpcUDu2iZ12F/view?usp=share_link
 
 
 Add more Dense layers to the existing code and check how the accuracy changes.
